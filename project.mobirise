@@ -89,10 +89,10 @@
         }
       ]
     },
-    "page1.html": {
+    "top.html": {
       "settings": {
         "meta_descr": "Web Builder Description",
-        "title": "Page 1",
+        "title": "top",
         "order": 1
       },
       "components": [
